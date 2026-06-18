@@ -23,3 +23,116 @@ img {
 body {
   font-size: 1.6rem;
 }
+.navbar{
+  background-color: #ffffff;
+  width: 5.2rem;
+  border: 0.1rem solid #e0ddd5;
+  padding-left: 3.2rem;
+  padding-right: 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.logo {
+  color: #1a1a1a;
+  font-size: 1.3rem;
+  font-weight: bold;
+  letter-spacing: 0.15rem;
+
+}
+
+.lista {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.lista li {
+margin-right: 2.8rem;
+font-size: 1.2rem;
+padding: 0;
+margin-right: auto;
+}
+
+.lista div {
+  font-size: 1.2;
+  color:555555;
+  padding: 0;
+}
+
+.reservar {
+  background-color: c0392b;
+  color:#ffffff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 0.6rem 1.6rem;
+  border-radius: 0.6rem;
+}
+
+.slogan {
+  background-color: #000000;
+  padding-top: 6.4rem;
+  padding-left:3.2rem ;
+  display: flex;
+  align-items: right;
+  flex-basis:50%;
+
+}
+
+.superior {
+  color: #c0392b;
+  border:0.1rem solid rgba(192, 57, 43, 0.5);
+  font-size: 1rem;
+  padding: 0.4rem 1.2rem;
+  border-radius: 2rem;
+  margin-bottom: 2rem;
+}
+
+.ache {
+  color: #ffffff;
+  font-size: 3.6rem;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1.4rem;
+}
+.menu {
+  background-color: #c0392b;
+  color:#ffffff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 1rem 2.2rem;
+  border-radius: 0.6rem;
+
+}
+.mesa {
+  background-color: transparent;
+  border:0.1rem csolid rgba(255, 255, 255, 0.2);
+  color: #cccccc;
+  font-size: 1.2rem;
+  padding: 1rem 1.8rem;
+  border-radius: 0.6rem;
+
+}
+
+.historia{
+  flex-basis: 45%;
+
+
+}
+
+.nosotros{
+
+
+
+}
+
+.spann {
+color: #c0392b;
+font-size: 1rem;
+
+
+}
